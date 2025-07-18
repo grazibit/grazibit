@@ -8,9 +8,9 @@ Olá, eu sou a Graziela!
 
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=grazibit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=grazibit&theme=tokyonight&hide_border=true">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazibit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=grazibit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=grazibit&theme=tokyonight&hide_border=true">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazibit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 </div>
 <h3>
 <img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
