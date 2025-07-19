@@ -1,8 +1,8 @@
-<h3 align="center">
-  <img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
-Olá, eu sou a Graziela!
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3061E3&fontAlign=10&reversal=true">
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&color=3061E3&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Graziela!+)](https://git.io/typing-svg)
+ 
 ---  
 <h3>
   <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="20">
