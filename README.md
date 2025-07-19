@@ -5,12 +5,12 @@ Olá, eu sou a Graziela!
 
 ---  
 <h3>
-  <img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
+  <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="20">
 Sobre mim:
 </h3>
 
 <p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dudzk4dnNqMm1tdmhoczRuam9kNml0MWtzYXQ2ejV6Y3pmaWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXBV06YC1Z16nEYDxP/giphy.gif" width="200" align="right">
+  <img src="https://media.tenor.com/RDN--Z-LMFgAAAAi/sonic-sonic-advance.gif" width="200" align="right">
   Sou estudante de Engenharia de Software na UNIPAMPA (Universidade Federal do Pampa) e estou sempre em busca de novos aprendizados. Atualmente, participo de projetos que contribuem para meu desenvolvimento técnico e pessoal, buscando constantemente crescer e evoluir na área.
 </p>
 
@@ -29,14 +29,14 @@ Sobre mim:
 </picture>
 
 <h3>
-<img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
+<img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="20">
 Tecnologias 
 </h3>
 
 [![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,java,mysql,postgres,py,nodejs,spring,firebase)](https://skillicons.dev)  
 
 <h3>
-   <img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
+   <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="20">
   Me encontre em
 </h3>
 
