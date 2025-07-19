@@ -33,7 +33,7 @@ Sobre mim:
 Tecnologias 
 </h3>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,java,mysql,postgres,py,nodejs,spring,firebase)](https://skillicons.dev)  
+[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,java,mysql,postgres,py,nodejs,spring,firebase,gitlab)](https://skillicons.dev)  
 
 <h3>
    <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="20">
