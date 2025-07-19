@@ -17,7 +17,7 @@ Olá, eu sou a Graziela!
 Tecnologias 
 </h3>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,java,mysql,postgres,py,nodejs,spring)](https://skillicons.dev)  
+[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,java,mysql,postgres,py,nodejs,spring,firebase)](https://skillicons.dev)  
 
 <h3>
    <img src="https://media.tenor.com/UQxp24htvsoAAAAj/pixel-gem.gif" width="20">
